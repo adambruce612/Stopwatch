@@ -1,5 +1,5 @@
 body {
-    background-color: darkgreen;
+    background-color: #280000;
 }
 
 h1 {
@@ -21,4 +21,34 @@ th {
 td {
     text-align: center;
 }
+
+#buttons {
+    margin: auto;
+    text-align: center;
+}
+
+button {
+    padding: .25em;     
+    background-color: #DD7230;
+    border: none; 
+    border-radius: .25em;
+}
+
+.hour {
+    color: #F34213;
+}
+
+.minute {
+    color: #BC5D2E;
+}
+
+.second {
+    color: #DE9151;
+}
+
+h1 {
+    color: #C05A0C;
+}
+
+
 
